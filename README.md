@@ -1,4 +1,4 @@
-# EX05 Implementation of Logistic Regression Using Gradient-Descent
+# EX06 Implementation of Logistic Regression Using Gradient-Descent
 
 # Name : ADITYAH M S
 # Register.no :  212223220002
