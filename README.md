@@ -71,10 +71,7 @@ print("Predicted Result:",y_prednew)
 ```
 # Output:
 
-# ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/harini1006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497405/fc78ffe5-3d9f-4aee-b22b-3af7aea9ad6f)
-
-# PREDICTED RESULT:
 
 ![image](https://github.com/harini1006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497405/e90546b5-582d-4204-bcd5-213125650d69)
 
